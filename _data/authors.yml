@@ -1,0 +1,14 @@
+Billy Rick:
+  name        : "Eldgin Brown"
+  bio         : "What do you want, jewels? I am a very extravagant man."
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:eldgin@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://ebt.cloud"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/ebtechkc"
